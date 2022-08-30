@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @andormarossy
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP & React
+- 🌱 I’m currently learning Angular
 - 📫 andor.marossy@gmail.com
